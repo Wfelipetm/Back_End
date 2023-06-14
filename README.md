@@ -4,12 +4,12 @@
  # Python
  Projeto: https://github.com/Wfelipetm/Calculadora_Orientada_a_Objetos
  
- Projeto: https://github.com/Wfelipetm/Python_D50
- 
-
+ Projeto: https://github.com/Wfelipetm/DesafioPython
  
  # Java
- 
+ https://github.com/Wfelipetm/DesafioJava/tree/main
+
  # Node
+ Projeto: https://github.com/Wfelipetm/DesafioNode
  
  # Bancos
